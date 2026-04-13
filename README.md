@@ -1,7 +1,4 @@
 # cathay-card-ai-assistant
-好，我先把 README 內容寫好，你確認後我們再來開 repo。
-
----
 
 # 信用卡智能權益助手
 
